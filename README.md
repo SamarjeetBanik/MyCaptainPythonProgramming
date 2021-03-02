@@ -8,3 +8,7 @@ Python was created in the late 1980s, and first released in 1991, by Guido van R
 Python interpreters are supported for mainstream operating systems and available for a few more (and in the past supported many more). A global community of programmers develops and maintains CPython, a free and open-source reference implementation. A non-profit organization, the Python Software Foundation, manages and directs resources for Python and CPython development.
 
 As of February 2021, Python ranks third in TIOBE’s index of most popular programming languages, behind C and Java, having previously gained second place and their award for the most popularity gain for 2020.
+
+### If you liked the repo, then don't forget to give a star 🌟 to this repo.
+
+# THANK YOU!
